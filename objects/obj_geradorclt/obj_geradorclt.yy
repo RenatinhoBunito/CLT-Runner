@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_comida",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_geradorclt",
+  "eventList":[],
   "managed":true,
-  "name":"obj_comida",
+  "name":"obj_geradorclt",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
