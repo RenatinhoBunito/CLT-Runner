@@ -1,6 +1,6 @@
 /// @description Inserir descrição aqui
 // Você pode escrever seu código neste editor
 
-ger = random_range(1,2)
+ger = 1
 
 show_debug_message(ger)
