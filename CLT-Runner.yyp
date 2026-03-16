@@ -43,6 +43,7 @@
     {"id":{"name":"obj_geradorcomida","path":"objects/obj_geradorcomida/obj_geradorcomida.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"rm_partida","path":"rooms/rm_partida/rm_partida.yy",},},
+    {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},
     {"id":{"name":"spr_CLT","path":"sprites/spr_CLT/spr_CLT.yy",},},
     {"id":{"name":"spr_comida1","path":"sprites/spr_comida1/spr_comida1.yy",},},
     {"id":{"name":"spr_comida2","path":"sprites/spr_comida2/spr_comida2.yy",},},
