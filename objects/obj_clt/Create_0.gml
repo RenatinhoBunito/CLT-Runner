@@ -1,17 +1,15 @@
 /// @description Inserir descrição aqui
 // Você pode escrever seu código neste editor
-image_speed = .5
-
 vspeed = 1
 
-sprite_index = choose(spr_comida1, spr_comida2,spr_comida3,spr_comida4)
+image_speed = .5
 
 alarm[0] = 600
 
-if global.ger = 1 {
+if global.clt = 1 {
 	image_xscale = 1
 }
 
-if global.ger = 2 {
+if global.clt = 2 {
 	image_xscale = -1
 }

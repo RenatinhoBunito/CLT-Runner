@@ -1,6 +1,13 @@
 /// @description Inserir descrição aqui
 // Você pode escrever seu código neste editor
 
-ger = 1
+global.ger = choose(1,2)
 
-show_debug_message(ger)
+if global.ger = 1 {
+	instance_create_layer(28,0,"Instances",obj_comida)
+}
+
+if global.ger = 2 {
+	instance_create_layer(153,0,"Instances",obj_comida)
+}
+alarm[0] = 120
