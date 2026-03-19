@@ -10,7 +10,7 @@
   },
   "defaultScriptType":1,
   "Folders":[
-    {"$GMFolder":"","%Name":"Animation Curves","folderPath":"folders/Animation Curves.yy","name":"Animation Curves","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Animation Curves","folderPath":"folders/Extensions/Animation Curves.yy","name":"Animation Curves","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Extensions","folderPath":"folders/Extensions.yy","name":"Extensions","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Fonts","folderPath":"folders/Fonts.yy","name":"Fonts","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Notes","folderPath":"folders/Notes.yy","name":"Notes","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -51,6 +51,8 @@
     {"id":{"name":"rm_historia4","path":"rooms/rm_historia4/rm_historia4.yy",},},
     {"id":{"name":"rm_partida","path":"rooms/rm_partida/rm_partida.yy",},},
     {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},
+    {"id":{"name":"snd_musica","path":"sounds/snd_musica/snd_musica.yy",},},
+    {"id":{"name":"snd_pega","path":"sounds/snd_pega/snd_pega.yy",},},
     {"id":{"name":"spr_CLT","path":"sprites/spr_CLT/spr_CLT.yy",},},
     {"id":{"name":"spr_comida1","path":"sprites/spr_comida1/spr_comida1.yy",},},
     {"id":{"name":"spr_comida2","path":"sprites/spr_comida2/spr_comida2.yy",},},
