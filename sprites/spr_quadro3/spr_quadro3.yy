@@ -23,7 +23,7 @@
   ],
   "name":"spr_quadro3",
   "nineSlice":null,
-  "origin":4,
+  "origin":5,
   "parent":{
     "name":"História",
     "path":"folders/Sprites/História.yy",
@@ -75,7 +75,7 @@
     ],
     "visibleRange":null,
     "volume":1.0,
-    "xorigin":180,
+    "xorigin":360,
     "yorigin":320,
   },
   "swatchColours":null,
